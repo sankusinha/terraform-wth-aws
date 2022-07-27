@@ -1,0 +1,5 @@
+terrafor.tfstate
+terraform.tfstate*
+.terraform*
+private-key
+*.pem
